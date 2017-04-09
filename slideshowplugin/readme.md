@@ -4,7 +4,7 @@ arrows on the images. You can use as many of the components on a page as  you wa
 
 For version 1.0 refer - https://github.com/nawazkhan/how-to-js/tree/master/slideshow
 
-##Usage
+## Usage
 
 Create div with id where you want to put the image slideshow.
 
@@ -26,7 +26,6 @@ var slideshow2 = new Slideshow('#el2', ['img1.jpg', 'img2.jpg', 'img3.jpg']);
 slideshow2.render();
 ```
 
-##Additional Fun Facts
+## Additional Fun Facts
 
-The CSS link has been added to the head tag to avoid FOUC (Flash of unstyled content).
-The script tag for slideshow.js is added at the bottom of the body because script tags are render blocking. 
+The CSS link has been added to the head tag to avoid FOUC (Flash of unstyled content). The script tag for slideshow.js is added at the bottom of the body because script tags are render blocking.
