@@ -4,7 +4,7 @@ arrows on the images.
 
 ## Direct Download
 
-Get the slideshow.js file from the folder. That is all you need!
+Get the slideshow.js and slideshow.css files from slideshowplugin(https://github.com/nawazkhan/how-to-js/tree/master/slideshowplugin) folder.
 
 ## Usage
 
