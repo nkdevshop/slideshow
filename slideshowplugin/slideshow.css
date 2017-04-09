@@ -5,15 +5,11 @@
 	display: block;
 }
 
-a {
-	text-decoration: none;
-}
-
 .prev, .next {
 	display: block;
-	font-size: 36px;
 	position: absolute;
-	top: 40%;
+	top: 45%;
+	font-weight: 36px;
 	color: #fff;
 	cursor: pointer;
 	text-align: center;
@@ -30,7 +26,11 @@ a {
 	padding-right: 25px;
 }
 
-.slideshow-container {
+a {
+	text-decoration: none;
+}
+
+.slideshow-container, .slideshow-test {
 	height: 300px;
 	width: 700px;
 	margin: 0 auto;
