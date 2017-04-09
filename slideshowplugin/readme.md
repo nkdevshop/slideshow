@@ -58,4 +58,7 @@ slideshow2.render();
 
 ## Additional Fun Facts
 
+* FOUC
+* render blocking script tags
+
 The CSS link has been added to the head tag to avoid FOUC (Flash of unstyled content). The script tag for slideshow.js is added at the bottom of the body because script tags are render blocking.
