@@ -1,10 +1,9 @@
 # SlideShowPlugin / Widget 2.0
-A simple & slick slideshow plugin written in native javascript. It supports sliding through the images using the left and right
-arrows on the images.
+A simple & slick slideshow plugin written in native javascript. It supports sliding through the images using the left and right arrows on the images.
 
 ## Direct Download
 
-Get the slideshow.js and slideshow.css files from slideshowplugin(https://github.com/nawazkhan/how-to-js/tree/master/slideshowplugin) folder.
+[Get the slideshow.js and slideshow.css files from slideshowplugin](https://github.com/nawazkhan/how-to-js/tree/master/slideshowplugin) folder.
 
 ## Usage
 
@@ -56,9 +55,11 @@ var slideshow2 = new Slideshow('#el2', ['img1.jpg', 'img2.jpg', 'img3.jpg']);
 slideshow2.render();
 ```
 
-## Additional Fun Facts
+## Additional Fun Topics Covered
 
+* IIFE
 * FOUC
 * render blocking script tags
 
-The CSS link has been added to the head tag to avoid FOUC (Flash of unstyled content). The script tag for slideshow.js is added at the bottom of the body because script tags are render blocking.
+The CSS link has been added to the head tag to avoid FOUC (Flash of unstyled content). 
+The script tag is added at the bottom of the body to avoid render blocking. In the latest versions of javascript like ES6 you could use things like async or differ accordingly to work around this!
