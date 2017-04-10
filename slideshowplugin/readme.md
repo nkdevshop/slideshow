@@ -57,8 +57,8 @@ slideshow2.render();
 
 ## Additional Fun Topics Covered
 
-* IIFE
-* FOUC
+* [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+* [FOUC](https://en.wikipedia.org/wiki/Flash_of_unstyled_content)
 * render blocking script tags
 
 The CSS link has been added to the head tag to avoid FOUC (Flash of unstyled content). 
