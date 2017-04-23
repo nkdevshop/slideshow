@@ -4,7 +4,7 @@ arrows on images and loops through.
 
 ## You can see it here
 
-[Slideshow.js file](https://github.com/nawazkhan/how-to-js/tree/master/slideshowplugin)
+[Slideshow.js file](https://github.com/nawazkhan/how-to-js/blob/master/slideshowplugin/slideshow.js)
 
 ## Usage
 
