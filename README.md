@@ -1,6 +1,6 @@
 # SlideShow Library
 A simple slideshow library written in native javascript. It supports sliding through the images using the left and right
-arrows on images and loops through.
+arrows on images and loops in a circular way.
 
 ## You can see it here
 
