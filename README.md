@@ -1,13 +1,10 @@
-# how-to-js
-This repository covers some of the common javascript, html5 and css3 use cases. Currently it has slideshow v1.0 and slideshow v2.0. More to come!
-
-# SlideShowPlugin / Widget 2.0
+# SlideShow Library
 A simple & slick slideshow plugin written in native javascript. It supports sliding through the images using the left and right
 arrows on the images.
 
-## Direct Download
+## Direct Access
 
-[Get the slideshow.js and slideshow.css files from slideshowplugin folder](https://github.com/nawazkhan/how-to-js/tree/master/slideshowplugin)
+[See the slideshow.js file](https://github.com/nawazkhan/how-to-js/tree/master/slideshowplugin)
 
 ## Usage
 
