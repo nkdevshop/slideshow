@@ -1,10 +1,10 @@
 # SlideShow Library
-A simple & slick slideshow plugin written in native javascript. It supports sliding through the images using the left and right
-arrows on the images.
+A simple slideshow library written in native javascript. It supports sliding through the images using the left and right
+arrows on images and loops through.
 
-## Direct Access
+## You can see it here
 
-[See the slideshow.js file](https://github.com/nawazkhan/how-to-js/tree/master/slideshowplugin)
+[Slideshow.js file](https://github.com/nawazkhan/how-to-js/tree/master/slideshowplugin)
 
 ## Usage
 
